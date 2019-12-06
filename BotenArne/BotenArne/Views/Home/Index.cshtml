@@ -4,8 +4,6 @@
 <!-- Add the stylesheet to the head -->
 <link rel="stylesheet" type="text/css" href="css/clippy.css" media="all">
 
-...
-
 <!-- Add these scripts to  the bottom of the page -->
 <!-- jQuery 1.7+ -->
 <script src="js/jquery-1.7.min.js"></script>
@@ -24,11 +22,14 @@
     clippy.load('Clippy', function(agent) {
         // Do anything with the loaded agent
         agent.show();
-        agent.moveTo(0, 0);
+        agent.moveTo(1400, 900);
         clippyAgent = agent;
     });
 
-    var connection = new signalR.HubConnectionBuilder().withUrl("/arneHub").build();
+    var connection = new signalR.HubConnectionBuilder()
+                                .withUrl("/arneHub")
+                                .withAutomaticReconnect([0, 1000, 5000, 10000, 15000, 20000, 20000, 20000, 20000, 20000, 20000, 20000, 20000, 20000, 20000, 20000, 20000])
+                                .build();
 
     connection.on("ReceiveCommand", function (action, message) {
         
@@ -37,8 +38,6 @@
         } else {
             clippyAgent.play(action);
         }
-
-        
 
     });
 

@@ -42,6 +42,16 @@ namespace BotenArne.Controllers
             return Json("OK");
         }
 
+        [HttpPost]
+        public JsonResult InputSpeech([FromBody] string speech)
+        {
+            if (speech.ToLower().Contains("leta"))
+            {
+                _arneHub.Clients.All.SendAsync("ReceiveCommand", "Searching");
+            }
+
+            return Json("OK");
+        }
 
 
 
