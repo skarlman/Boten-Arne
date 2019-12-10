@@ -56,6 +56,9 @@ namespace BigBrother
                     if (e.Result.Reason == ResultReason.RecognizedSpeech)
                     {
                         await File.WriteAllTextAsync(@"C:\code\streaming\lunchmed.net\repositories\Boten-Arne\subtitles.txt", e.Result.Text);
+
+                        await speechSender.SendSpeech(e.Result.Text);
+                        
                         Console.WriteLine($"RECOGNIZED: Text={e.Result.Text}");
                     }
                     else if (e.Result.Reason == ResultReason.NoMatch)

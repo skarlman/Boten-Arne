@@ -43,14 +43,46 @@ namespace BotenArne.Controllers
         }
 
         [HttpPost]
-        public JsonResult InputSpeech([FromBody] string speech)
+        public IActionResult InputSpeech([FromBody] string speech)
         {
+
+            if (string.IsNullOrEmpty(speech))
+            {
+                return BadRequest();
+            }
+
+
+            //CheckingSomething - "läsa på"
+
+            //GestureUp "upp"
+            //GestureDown "ner"
+
+            //GetArtsy GetTechy -Avancerade Avancerat Komplicerat
+
+            //Processing - "Gräva"
+
+            //Searching "leta"
+
+            //Thinking "fundera" "tänka"
+
+            //Wave - "viktigt"
+
+
+
             if (speech.ToLower().Contains("leta"))
             {
                 _arneHub.Clients.All.SendAsync("ReceiveCommand", "Searching");
             }
+            else if (speech.ToLower().Contains("gräv"))
+            {
+                _arneHub.Clients.All.SendAsync("ReceiveCommand", "Processing");
+            }
+            else if (speech.ToLower().Contains("fundera"))
+            {
+                _arneHub.Clients.All.SendAsync("ReceiveCommand", "Thinking");
+            }
 
-            return Json("OK");
+                return Ok();
         }
 
 
