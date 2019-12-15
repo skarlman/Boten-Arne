@@ -1,6 +1,10 @@
 # Boten-Arne
 Clippy resurrected as a Twitch companion
 
+**Hjälp till att träna gemet, machine learning ftw!**
+https://lunchmed.net/ClippyTrainer/
+
+
 Project developed live on the twitch stream https://lunchmed.net (In Swedish)
 
 
