@@ -82,7 +82,7 @@ namespace BotenArne.Controllers
                 _arneHub.Clients.All.SendAsync("ReceiveCommand", "Thinking");
             }
 
-                return Ok();
+            return Ok();
         }
 
 
