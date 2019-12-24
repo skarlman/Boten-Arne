@@ -7,6 +7,7 @@ using BotenArne.Hubs;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using BotenArne.Models;
+using GemGymmet;
 using Microsoft.AspNetCore.SignalR;
 
 namespace BotenArne.Controllers
@@ -15,6 +16,7 @@ namespace BotenArne.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IHubContext<ArneHub> _arneHub;
+        private readonly ArneActionService _predictionService = new ArneActionService();
 
         public HomeController(ILogger<HomeController> logger, IHubContext<ArneHub> arneHub)
         {
@@ -43,6 +45,20 @@ namespace BotenArne.Controllers
         }
 
         [HttpPost]
+        public IActionResult InputChatCommand([FromBody] string command)
+        {
+            if (string.IsNullOrEmpty(command))
+            {
+                return BadRequest();
+            }
+
+            _arneHub.Clients.All.SendAsync("ReceiveCommand", command);
+
+            return Ok();
+
+        }
+
+        [HttpPost]
         public IActionResult InputSpeech([FromBody] string speech)
         {
 
@@ -50,6 +66,9 @@ namespace BotenArne.Controllers
             {
                 return BadRequest();
             }
+
+            var prediction = _predictionService.PredictAction(speech);
+            _arneHub.Clients.All.SendAsync("ReceiveCommand", prediction);
 
 
             //CheckingSomething - "läsa på"
@@ -69,18 +88,18 @@ namespace BotenArne.Controllers
 
 
 
-            if (speech.ToLower().Contains("leta"))
-            {
-                _arneHub.Clients.All.SendAsync("ReceiveCommand", "Searching");
-            }
-            else if (speech.ToLower().Contains("gräv"))
-            {
-                _arneHub.Clients.All.SendAsync("ReceiveCommand", "Processing");
-            }
-            else if (speech.ToLower().Contains("fundera"))
-            {
-                _arneHub.Clients.All.SendAsync("ReceiveCommand", "Thinking");
-            }
+            //if (speech.ToLower().Contains("leta"))
+            //{
+            //    _arneHub.Clients.All.SendAsync("ReceiveCommand", "Searching");
+            //}
+            //else if (speech.ToLower().Contains("gräv"))
+            //{
+            //    _arneHub.Clients.All.SendAsync("ReceiveCommand", "Processing");
+            //}
+            //else if (speech.ToLower().Contains("fundera"))
+            //{
+            //    _arneHub.Clients.All.SendAsync("ReceiveCommand", "Thinking");
+            //}
 
             return Ok();
         }

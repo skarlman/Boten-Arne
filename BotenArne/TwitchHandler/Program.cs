@@ -55,6 +55,7 @@ namespace TwitchHandler
             private void Client_OnLog(object sender, OnLogArgs e)
             {
                 Console.WriteLine($"{e.DateTime.ToString()}: {e.BotUsername} - {e.Data}");
+                File.AppendAllLines("TwitchChatLog.txt", new []{e.Data});
             }
 
             private void Client_OnConnected(object sender, OnConnectedArgs e)
@@ -75,15 +76,15 @@ namespace TwitchHandler
 
                 if (e.ChatMessage.Message.StartsWith("!gräv"))
                 {
-                    _speechSender.SendSpeech("gräv").Wait();
+                    _speechSender.SendSpeech("Processing").Wait();
                 }
                 else if (e.ChatMessage.Message.StartsWith("!leta"))
                 {
-                    _speechSender.SendSpeech("leta").Wait();
+                    _speechSender.SendSpeech("Searching").Wait();
                 }
                 else if (e.ChatMessage.Message.StartsWith("!fundera"))
                 {
-                    _speechSender.SendSpeech("fundera").Wait();
+                    _speechSender.SendSpeech("Thinking").Wait();
                 }
 
             }

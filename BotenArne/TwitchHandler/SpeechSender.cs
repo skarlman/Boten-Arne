@@ -13,11 +13,18 @@ namespace BigBrother
         public async Task SendSpeech(string speech)
         {
             using var client = new HttpClient();
-            
-            client.BaseAddress = new Uri("https://localhost:44377");
+            var port = 1337;
+
+#if DEBUG
+
+            port = 44377;
+
+#endif
+
+            client.BaseAddress = new Uri($"http://localhost:{port}");
 
 
-            var httpRequestMessage = new HttpRequestMessage(HttpMethod.Post, "/Home/InputSpeech");
+            var httpRequestMessage = new HttpRequestMessage(HttpMethod.Post, "/Home/InputChatCommand");
             httpRequestMessage.Content = new StringContent($"\"{speech}\"",Encoding.UTF8,"application/json");
            
             var result = await client.SendAsync(httpRequestMessage);

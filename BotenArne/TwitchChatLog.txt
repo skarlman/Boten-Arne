@@ -1,0 +1,108 @@
+Connecting to: wss://irc-ws.chat.twitch.tv:443
+Should be connected!
+Joining channel: lunchmednet
+Received: :tmi.twitch.tv 001 botenarne :Welcome, GLHF!
+Received: :tmi.twitch.tv 002 botenarne :Your host is tmi.twitch.tv
+Received: :tmi.twitch.tv 003 botenarne :This server is rather new
+Received: :tmi.twitch.tv 004 botenarne :-
+Received: :tmi.twitch.tv 375 botenarne :-
+Received: :tmi.twitch.tv 372 botenarne :You are in a maze of twisty passages, all alike.
+Received: :tmi.twitch.tv 376 botenarne :>
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+Received: :botenarne!botenarne@botenarne.tmi.twitch.tv JOIN #lunchmednet
+Received: :botenarne.tmi.twitch.tv 353 botenarne = #lunchmednet :botenarne
+Received: :botenarne.tmi.twitch.tv 366 botenarne #lunchmednet :End of /NAMES list
+Finished channel joining queue.
+Received: @badge-info=;badges=;color=;display-name=botenarne;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #lunchmednet
+Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=464372178;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #lunchmednet
+Received: @badge-info=;badges=;color=;display-name=botenarne;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #lunchmednet
+Finished channel joining queue.
+Received: @badge-info=;badges=broadcaster/1;color=;display-name=lunchmednet;emotes=;flags=;id=1ffb8812-ff27-4316-ba4c-3bb91b825a68;mod=0;room-id=464372178;subscriber=0;tmi-sent-ts=1577185837734;turbo=0;user-id=464372178;user-type= :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv PRIVMSG #lunchmednet :!gräv
+Received: :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv JOIN #lunchmednet
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: :commanderroot!commanderroot@commanderroot.tmi.twitch.tv JOIN #lunchmednet
+Received: @badge-info=;badges=broadcaster/1;color=;display-name=lunchmednet;emotes=;flags=0-93:;id=cccefa9d-56c8-46ab-8bd9-2f6472c93b7f;mod=0;room-id=464372178;subscriber=0;tmi-sent-ts=1577186277855;turbo=0;user-id=464372178;user-type= :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv PRIVMSG #lunchmednet :https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/github-issue-classification
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: @badge-info=;badges=broadcaster/1;color=;display-name=lunchmednet;emotes=;flags=;id=c3dced41-139b-452c-8965-b251aa9d4678;mod=0;room-id=464372178;subscriber=0;tmi-sent-ts=1577187656407;turbo=0;user-id=464372178;user-type= :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv PRIVMSG #lunchmednet :!gräv
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Connecting to: wss://irc-ws.chat.twitch.tv:443
+Should be connected!
+Joining channel: lunchmednet
+Received: :tmi.twitch.tv 001 botenarne :Welcome, GLHF!
+Received: :tmi.twitch.tv 002 botenarne :Your host is tmi.twitch.tv
+Received: :tmi.twitch.tv 003 botenarne :This server is rather new
+Received: :tmi.twitch.tv 004 botenarne :-
+Received: :tmi.twitch.tv 375 botenarne :-
+Received: :tmi.twitch.tv 372 botenarne :You are in a maze of twisty passages, all alike.
+Received: :tmi.twitch.tv 376 botenarne :>
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+Received: :botenarne!botenarne@botenarne.tmi.twitch.tv JOIN #lunchmednet
+Received: @badge-info=;badges=;color=;display-name=botenarne;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #lunchmednet
+Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=464372178;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #lunchmednet
+Received: :botenarne.tmi.twitch.tv 353 botenarne = #lunchmednet :commanderroot lunchmednet
+Received: :botenarne.tmi.twitch.tv 353 botenarne = #lunchmednet :botenarne
+Received: :botenarne.tmi.twitch.tv 366 botenarne #lunchmednet :End of /NAMES list
+Finished channel joining queue.
+Received: @badge-info=;badges=;color=;display-name=botenarne;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #lunchmednet
+Finished channel joining queue.
+Received: @badge-info=;badges=broadcaster/1;color=;display-name=lunchmednet;emotes=;flags=;id=f9e7692c-9bfd-4e06-995c-e5261e18346e;mod=0;room-id=464372178;subscriber=0;tmi-sent-ts=1577188417050;turbo=0;user-id=464372178;user-type= :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv PRIVMSG #lunchmednet :!gräv
+Received: @badge-info=;badges=broadcaster/1;color=;display-name=lunchmednet;emotes=;flags=;id=439eda50-959c-46d1-9682-5a83b7b1617f;mod=0;room-id=464372178;subscriber=0;tmi-sent-ts=1577188433912;turbo=0;user-id=464372178;user-type= :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv PRIVMSG #lunchmednet :!leta
+Connecting to: wss://irc-ws.chat.twitch.tv:443
+Should be connected!
+Joining channel: lunchmednet
+Received: :tmi.twitch.tv 001 botenarne :Welcome, GLHF!
+Received: :tmi.twitch.tv 002 botenarne :Your host is tmi.twitch.tv
+Received: :tmi.twitch.tv 003 botenarne :This server is rather new
+Received: :tmi.twitch.tv 004 botenarne :-
+Received: :tmi.twitch.tv 375 botenarne :-
+Received: :tmi.twitch.tv 372 botenarne :You are in a maze of twisty passages, all alike.
+Received: :tmi.twitch.tv 376 botenarne :>
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+Received: :botenarne!botenarne@botenarne.tmi.twitch.tv JOIN #lunchmednet
+Received: :botenarne.tmi.twitch.tv 353 botenarne = #lunchmednet :botenarne
+Received: :botenarne.tmi.twitch.tv 366 botenarne #lunchmednet :End of /NAMES list
+Finished channel joining queue.
+Received: @badge-info=;badges=;color=;display-name=botenarne;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #lunchmednet
+Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=464372178;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #lunchmednet
+Received: @badge-info=;badges=;color=;display-name=botenarne;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #lunchmednet
+Finished channel joining queue.
+Received: @badge-info=;badges=broadcaster/1;color=;display-name=lunchmednet;emotes=;flags=;id=f5535b0d-5f7d-4acf-92ba-d6c02ca6dd90;mod=0;room-id=464372178;subscriber=0;tmi-sent-ts=1577188699857;turbo=0;user-id=464372178;user-type= :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv PRIVMSG #lunchmednet :!gräv
+Received: @badge-info=;badges=broadcaster/1;color=;display-name=lunchmednet;emotes=;flags=;id=b2b23619-838f-496f-991c-8e9e9d67d7d4;mod=0;room-id=464372178;subscriber=0;tmi-sent-ts=1577188706601;turbo=0;user-id=464372178;user-type= :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv PRIVMSG #lunchmednet :!leta
+Received: :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv JOIN #lunchmednet
+Received: :commanderroot!commanderroot@commanderroot.tmi.twitch.tv JOIN #lunchmednet
+Received: @badge-info=;badges=broadcaster/1;color=;display-name=lunchmednet;emotes=;flags=;id=21cc1e1d-a882-4c4d-9377-0cb6ca105d12;mod=0;room-id=464372178;subscriber=0;tmi-sent-ts=1577188760025;turbo=0;user-id=464372178;user-type= :lunchmednet!lunchmednet@lunchmednet.tmi.twitch.tv PRIVMSG #lunchmednet :!fundera
+Received: PING :tmi.twitch.tv
+Writing: PONG
+Received: :robbandoe!robbandoe@robbandoe.tmi.twitch.tv JOIN #lunchmednet
+Received: :anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #lunchmednet
+Received: :robbandoe!robbandoe@robbandoe.tmi.twitch.tv PART #lunchmednet

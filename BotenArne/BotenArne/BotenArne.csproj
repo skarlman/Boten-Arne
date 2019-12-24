@@ -10,4 +10,14 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GemGymmet\GemGymmet.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Models\model.zip">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
