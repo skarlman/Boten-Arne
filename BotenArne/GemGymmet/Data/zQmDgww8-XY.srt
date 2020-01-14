@@ -1,0 +1,1500 @@
+1
+00:00:12,150 --> 00:00:12,170
+Hmm
+
+2
+00:00:15,760 --> 00:00:30,640
+
+
+3
+00:00:43,360 --> 00:00:43,380
+Hmm
+
+4
+00:01:00,990 --> 00:01:01,010
+Hmm
+
+5
+00:01:06,340 --> 00:01:06,360
+Hmm
+
+6
+00:01:18,160 --> 00:01:33,160
+
+
+7
+00:01:39,580 --> 00:01:40,070
+Hmm
+
+8
+00:01:47,670 --> 00:02:09,480
+du kör det är live det skulle inte vara det är välkomna tillbaka till lunch med ett skrik men där vi samlar alla världens att promenera i alla fall de som kan svenska när man drar de skiter vi gör det under parollen kom igen det blir kul och hmm
+
+9
+00:02:19,040 --> 00:02:24,230
+men det sista vi har kvar att göra här i att prata om clean arkitekter
+
+10
+00:02:25,760 --> 00:02:43,090
+if s och jag antar att ni alla har säkert läst den här boken med laget det är den där försvinner han hmm men hur som helst där vi är besvikna 3:e boken i serien
+
+11
+00:02:55,050 --> 00:03:02,800
+direkt på kol hållet gravar men först och främst måste vi prata lite om finns kliniker över huvud taget det är
+
+12
+00:03:03,510 --> 00:03:26,830
+de konstigaste jag tycker är oftast pratas om som ett absolut att antennen är har projektet kring arkitektur eller så är det inte och så är det inte när utan alla projekt är smutsiga i någon grad eller annars markera hålla på i all evighet att städa och så vill jag ju konstaterat
+
+13
+00:03:33,880 --> 00:03:40,770
+aldrig var jag helt absolut clean utan det är ju en någon form av mat att vi går åt det hållet
+
+14
+00:03:42,550 --> 00:03:52,370
+jess men det har alla att det ska vi göra idag vi ska prata om i princip och jag menar att vi gör det där lilla lilla pytte projektet vi har för er som missat det så
+
+15
+00:04:09,410 --> 00:04:12,720
+om vi hoppar till hit fantastiskt
+
+16
+00:04:14,120 --> 00:04:26,890
+hard rain detta bli kanon dar så vi får en fräsch hmm fräsch kolon körde med dragigt bärs eller ja
+
+17
+00:04:27,840 --> 00:04:33,090
+hmm en viss prestige och det är inte det jag brukar inte göra men i det här fallet är det bra för det går fort
+
+18
+00:04:33,710 --> 00:04:37,730
+och så får vi öppnar aktierna och jag tror att det är det här vi får se vad som händer
+
+19
+00:04:39,690 --> 00:04:43,200
+jag är där vi kör studie och kaffepausen som vi har handlat så många gånger innan
+
+20
+00:04:44,430 --> 00:04:45,340
+jag vill se vad som händer
+
+21
+00:04:48,000 --> 00:05:09,190
+spänningen är total eller när man ju fortsätta prata om för er som inte varit med tidigare det är byggt är en ses vi på sig och det är inte för att det är så spännande gör det utan det är för att när vi körde åtta kommer att gå med och sådär så jag ju för det här måste ju vara bra
+
+22
+00:05:18,490 --> 00:05:25,480
+om vi bygger oss ett litet hmm den på och av det här hmm konstatera att det här var ju faktiskt bra skit eller
+
+23
+00:05:26,240 --> 00:05:43,840
+och därför så gick vi vidare och numera så ska vi städa upp det här så att vi slipper skämmas över att få den här koden på gitarr men det är lena den bra vana att ha att vi fakturerar tills vi kan sova gott om natten idag och imorgon så är det
+
+24
+00:05:48,310 --> 00:05:58,860
+hmm har de här fönster hoppat runt lite det gör inget jag ska på lajv kärl för er som de tycker det är spännande att följa med i koden samtidigt som vi bygger
+
+25
+00:06:00,170 --> 00:06:19,820
+jag har en id om läser så roligt ska vi inte ha så lägger vi in i chatten här va kan vi skriva IRIBE slash VS kod fatta hur gör det genom att du har det så kan du ansluta till min studio i studion och snoka runt lite
+
+26
+00:06:21,370 --> 00:06:27,800
+jess så tar den länken där och så löser det sig på något sätt för att se hur det funkar jag har ingen aning
+
+27
+00:06:28,920 --> 00:06:48,970
+hur som helst blir det tyvärr är dagens tema och det vi har det när vi landade förra gången var i nån form av junit test kamrad som vi var hyfsat nöjda med hmm kan se om vi kan dra igång det här igen som vi ser det så ut jag vet inte vad man gör
+
+28
+00:06:50,100 --> 00:07:01,690
+tjänster jag blev jättetrött och dra igång en helt ny krona att hmm projekt det är nu vi bygger det är bra det funkar och så ska vi se hmm
+
+29
+00:07:02,580 --> 00:07:07,150
+där dök de upp alla testerna ska vi ta och köra dem i la sig ner
+
+30
+00:07:08,430 --> 00:07:19,620
+nu är det charter sessioner skulle lika gärna kunna köra i versus egna jag har egentligen ingen preferens där preferenser jag har eu en framtid en egentligen
+
+31
+00:07:21,750 --> 00:07:34,600
+jäs de blev gröna och då kanske vi kan kalla dem också carver ska inte köra den hmm liven continue skall därför kopplade vi strömmen ifrån förra gången
+
+32
+00:07:36,510 --> 00:07:39,950
+oj oj oj det här ser ju inte bra ut gillar verkligen rätt projekt
+
+33
+00:07:41,660 --> 00:07:44,370
+vi talar om dem bra noll tests
+
+34
+00:07:46,840 --> 00:07:50,410
+det ser ut att vara ett projekt hmm det skulle se bättre ut
+
+35
+00:07:52,180 --> 00:07:52,750
+vad ska vi se
+
+36
+00:07:55,500 --> 00:07:56,950
+nej jag vill inte
+
+37
+00:07:58,200 --> 00:08:04,110
+ja väldigt spännande har e ev i rätt version av det här projektet glömde jag kommit eller föra över där
+
+38
+00:08:05,920 --> 00:08:06,890
+hmm
+
+39
+00:08:07,610 --> 00:08:10,000
+vi får kolla runt lite konstig ut
+
+40
+00:08:12,640 --> 00:08:33,020
+hmm du vi drar på en krans bara för fonden profit en kanske nånting just det som är hyggligt mycket snabbare än dess konkurrenter vi kör så alla parallel execution impact test automaticly hela poängen och köra latest egentligen skulle jag vilja vara
+
+41
+00:08:43,710 --> 00:08:49,580
+så det är nånting var vi se vad som händer kan vi gå in och kolla här på
+
+42
+00:08:50,530 --> 00:08:58,560
+det vi har ni kollapsar om här vi har en spänd sträng penser som är en mentor point här program CS
+
+43
+00:09:00,240 --> 00:09:14,640
+zombie gruppen av sin finanser hmm skickar in lite dependencies det får vi lösa samma och spottar ur sig lite thaimat hem så ses vi väl just det här med sin egen data för litet
+
+44
+00:09:19,280 --> 00:09:27,950
+den använder sig av olika typer av panzers för det var det här vi skulle testa dem spänn och grejer var bättre och då har vi våra barn smaker som gör det här
+
+45
+00:09:28,750 --> 00:09:32,400
+ser ut sådär bland en bensinmack gått snett jag vet inte om jag har testat dem
+
+46
+00:09:35,550 --> 00:09:41,440
+och den testar lite olika uppsättningar av våra grejer och för att se se hur det blir
+
+47
+00:09:43,500 --> 00:09:47,260
+och nu verkar han kanske var igång så kan vi kolla hur det ser ut härda
+
+48
+00:09:48,100 --> 00:09:52,690
+per grönt ropar efter en sen så spännande
+
+49
+00:09:53,790 --> 00:09:56,520
+den är täckt och den effekt
+
+50
+00:09:58,970 --> 00:10:03,130
+ja men det ser ut att vara väldigt högt älskad kör vi faktiskt inte varför där inte tycker det
+
+51
+00:10:04,350 --> 00:10:07,450
+den är fortfarande inte helt igenom kör tycker han
+
+52
+00:10:09,310 --> 00:10:14,460
+man får klara utanför vi nästan men det blir nyfikna i alla fall borde vara exakt samma upplevelse hoppas jag
+
+53
+00:10:15,330 --> 00:10:15,950
+kamera
+
+54
+00:10:17,310 --> 00:10:20,340
+vad ska man ta markera genom att ha kvar kanske
+
+55
+00:10:21,800 --> 00:10:23,710
+ja usa men som mig
+
+56
+00:10:27,190 --> 00:10:28,740
+hmm
+
+57
+00:10:32,440 --> 00:10:39,130
+kan testpersonerna så tar vi här skoff
+
+58
+00:10:42,970 --> 00:10:57,490
+caf verkar en session helt plötsligt är det mycket bättre magi så är det nu så att vi har en hyfsad test kamrat det är vi nöjda med jag tänker inte jobba mer med det för att det är gubben det så vill jag att vi ska ställa upp det
+
+59
+00:10:59,660 --> 00:11:01,260
+och då tänker jag att vi börjar i
+
+60
+00:11:02,020 --> 00:11:02,770
+koncepten
+
+61
+00:11:03,560 --> 00:11:18,970
+clean arkitekter här vi har ett ganska stort problem med det här spännande strumpor som projektet och det äRFörutom möjligen det är att allting ligger liksom lite huller om buller olika abstraktionsnivå r men vi pratar om
+
+62
+00:11:20,050 --> 00:11:29,340
+ofta när vi pratar om sina sektor i alla fall i den här boken och i den här rackaren över vet inte om det syns där hmm får göra så här tror jag
+
+63
+00:11:31,300 --> 00:11:33,750
+den hur många läser rackarna de 2:a
+
+64
+00:11:35,180 --> 00:11:48,110
+Den är en klassiker den var bra gjort där pratar vi om en domän som var i programmet domän och i ankeborg i sin bok pratar om att arkitekturen ska skrika ut vad det är för program och det är ju inte riktigt nu
+
+65
+00:11:50,310 --> 00:12:02,280
+för att göra det lilla lilla för att ta några steg i rätt riktning så vill jag att vi helt enkelt bryter ut vad som är kern logiken i det här programmet vad är själva programmet det ska ligga i ett eget projekt separat från
+
+66
+00:12:02,960 --> 00:12:07,090
+från detaljer som filsystem och databaser och sådär
+
+67
+00:12:07,970 --> 00:12:19,000
+relevanta prylar är det som är intressant är för oss programmerare egentligen att vi skriver business logik som den som den ska först och främst utan att blanda in 2:a saker
+
+68
+00:12:20,850 --> 00:12:37,040
+så då kör vi ett nytt projekt och nu nu när vi åkte runt och stökar och grejer så kan det bli väldigt spännande fel det tycker jag är kul hmm men det går kort och gott så skulle det vara en klass bibliotek
+
+69
+00:12:42,640 --> 00:12:44,990
+s class library netstandard
+
+70
+00:12:48,180 --> 00:13:08,450
+prasslar ett ett dåligt namn spär shrimp alzer punkt domaine när deras domän logiken ändå är det då enkelt har ingenting med internet domäner och göra men hmm
+
+71
+00:13:15,410 --> 00:13:19,220
+ld i projektet det är det som är själva kärnan i projektet
+
+72
+00:13:20,170 --> 00:13:25,480
+och det är där all vår intressanta viss logik ligger
+
+73
+00:13:27,460 --> 00:13:48,430
+så vad är det i våran spänn strumpor som är hmm business logik som är den grejer ropades absolut vi har ju vara synd filippa så är det ju absolut det en filmpoliser favoriter det är bara en liten detalj klass för att faktiskt hämta saker från hårddisken
+
+74
+00:13:50,520 --> 00:14:07,090
+men dess interface däremot det är i allra högsta grad domän logik för dnan är det som bestämmer och den bestämmer att jag är en filur som hmm jag bryr mig inte om hur den gör sin hmm men jag har en son
+
+75
+00:14:14,080 --> 00:14:17,530
+och ser hur vissa studier visar gråter
+
+76
+00:14:18,890 --> 00:14:19,630
+jess
+
+77
+00:14:20,670 --> 00:14:24,280
+clas ett kan vi ta bort det är inte dom är
+
+78
+00:14:25,940 --> 00:14:36,210
+kammar ska vi se vad som händer vi får hmm ställa upp alla dina inspel ses nu för nu nu samlar vi alla referenser och de pengar som grejer effekter
+
+79
+00:14:45,790 --> 00:15:01,450
+och nu är det rött sanerare 47 arasi 11 filer det låter inte jätte bra va men bygger och se vad som händer i rollistan ärendet upp hit jag förstår inte varför de tycker du ska bo där det är inte jag ska bo där
+
+80
+00:15:02,930 --> 00:15:04,360
+hmm ska vi se
+
+81
+00:15:07,180 --> 00:15:11,390
+vad vi redan har lämnat den där nere härligt
+
+82
+00:15:12,560 --> 00:15:29,830
+där vi håller på med hästen flyttade fram och tillbaks det är en av fördelarna med studier faktiskt att man får roa sig med den hmm kom vi till hmm testprojektet det blir inte så mycket om en hmm
+
+83
+00:15:32,200 --> 00:15:40,590
+den här tycker inte man kan göra så där vi köra zennströms is not available in sju tre och då får vi kolla på vad som händer här
+
+84
+00:15:41,880 --> 00:15:58,520
+den skapar ett nytt standard två noll projekt det är ju så hmm 2018 eller 2019 så jag vet inte riktigt vad den här nya prylarna kommer så att det jag vet inte varför de inte gjorde det som standard men vi pratar om den bygger igen
+
+85
+00:16:02,180 --> 00:16:08,090
+jäs och då borde annevi ja hmm
+
+86
+00:16:10,090 --> 00:16:12,220
+ska vi se om dom är glada nära
+
+87
+00:16:14,350 --> 00:16:19,700
+nu ser de fina ut att fungera i alla fall eller hur
+
+88
+00:16:23,790 --> 00:16:31,790
+varför vet inte vad det är vi behöver importera den IS fantastiskt och vad vi här då
+
+89
+00:16:34,430 --> 00:16:38,500
+s pen de vill också fantastiskt
+
+90
+00:16:39,790 --> 00:16:41,800
+tror jag det här projektet bygger nu då
+
+91
+00:16:42,740 --> 00:16:56,710
+den lilla lilla lina det här är den stora fördelen med denna klinik tiden med de ändrade designat de i projektet ska vara helt oberoende av 2:a projekt och 2:a prylar så det ska gå att bygga i sin ensamhet
+
+92
+00:17:12,630 --> 00:17:16,080
+desintec från hmm men konkreta klassen
+
+93
+00:17:17,320 --> 00:17:28,370
+det är ju bra det är lite av iden att göra det men den här ska in och rota i filsystemet och hålla på då hör det här hemma i ett annat projekt som heter
+
+94
+00:17:31,100 --> 00:17:34,160
+spänningen är total hmm standard
+
+95
+00:17:36,660 --> 00:17:46,280
+klas labranda hmm men projektet ska heta spänns tre part vi måste nästan låter namnet punkt in för astra
+
+96
+00:17:48,290 --> 00:17:59,060
+och varför på ta över den där vad det är för att vi vill inte blanda ihop hmm men om det finns logik med detaljer om man tänker så här att hmm
+
+97
+00:18:00,390 --> 00:18:17,400
+om du har ett exempel om vi har en liten funktion som räknar ut räntan på nånting då skulle han aldrig någonsin förändras eller break har grundat med byter från en server till en vän står till exempel det är jättedåligt saker
+
+98
+00:18:23,940 --> 00:18:42,440
+därför så byter vi ut ett annat projekt och så pekade referenserna åt rätt håll så domän får aldrig någon som vet om infrastructure den får aldrig veta vad det är för filur tider det är som används för då kan den här aldrig brukar för det går alltid kontrollera ändå
+
+99
+00:18:43,430 --> 00:18:44,680
+n med på jag menar
+
+100
+00:18:46,170 --> 00:18:52,310
+vi flyttar det klarnar det säkert om det var något som inte var med på det blir infrastruktur
+
+101
+00:18:54,230 --> 00:19:09,880
+infrastruktur ta bort det här standard grön ska säga om den lever och ja det är samma på leverans var där det blev 2:02 noll det är ju så så gammalt tack och då får vi se om det här
+
+102
+00:19:11,860 --> 00:19:26,610
+vill vara med och leka lite bättre nu vet jag inte än i figurer för att bo i domaine men infrastruktur får vi känna till domänen såklart i hela grejen hmm
+
+103
+00:19:30,820 --> 00:19:43,330
+åt vilket håll den referensen går de in har inte en susning om att det finns 2:a saker här i världen den har en fri marknad och netstandard som sin enda dependency visst känns det skönt dricka pling
+
+104
+00:19:44,440 --> 00:19:52,750
+medans den här infrastrukturen då har dom med som sin hmm det enda sig så
+
+105
+00:19:55,390 --> 00:20:08,560
+domaren säger att det ska finnas en highfive skivor skiter i vilken och infrastruktur kommer hmm träning och göra en konkret implementation sedan kan man byta det är mycket man vill det är märker aldrig mina av egentligen
+
+106
+00:20:09,640 --> 00:20:11,310
+vad är det som vill ha det där koppling
+
+107
+00:20:12,850 --> 00:20:22,500
+klean så att säga s nu har vi haft sönder allting hmm det kan man ju tycka är tråkigt så vi får nu får vi börja laga allting
+
+108
+00:20:23,940 --> 00:20:32,650
+sparrström parser har ingen aning om vad det är för det är ju flyttat där då men vi får lyfta ring mig pop det här är jag också
+
+109
+00:20:34,270 --> 00:20:34,990
+jajemän
+
+110
+00:20:36,690 --> 00:20:38,140
+skoff kommer nu
+
+111
+00:20:42,290 --> 00:20:44,760
+ja ah nästan
+
+112
+00:20:47,270 --> 00:20:55,180
+vad är en familj utgivare jo den ligger infrastructure är en sån så där glad
+
+113
+00:20:57,320 --> 00:21:02,890
+å r tar du bort det som inte längre finns snyggt bygge säkert än
+
+114
+00:21:07,550 --> 00:21:17,680
+de står inget att göra bildsida vi kan till och med testkörd om tron att den hmm funkar trots alla de här röda hemska arga ikonerna
+
+115
+00:21:21,490 --> 00:21:23,000
+spänningen är total
+
+116
+00:21:24,300 --> 00:21:32,950
+jag skulle bara spotta ur sig massa av de siffror är de inte om de är från filerna på det jag gör men det funkar igen det var inte så blodigt
+
+117
+00:21:34,160 --> 00:21:47,350
+Men nu börjar resten av den här svensk ung cancer det är en klient har konsekvent den får ju absolut referera till domaren och så vidare den här skulle ju bygga upp sina dependencies
+
+118
+00:21:48,100 --> 00:21:52,200
+sedan måste jag ha tillgång till allt som är instruktör mycket bra
+
+119
+00:21:53,720 --> 00:21:55,870
+den smakar fungerar väl förmodligen längre
+
+120
+00:21:57,580 --> 00:22:15,470
+för den har ingen aning om vad saknar ligger den refererar fel projekt där refererar ju spänd sträng passar som en konsol klient och orkade inte en aning om vad det är men däremot så har
+
+121
+00:22:16,370 --> 00:22:19,480
+del av sin partner tycker han och en spännande platser
+
+122
+00:22:20,790 --> 00:22:21,470
+om den här med
+
+123
+00:22:23,310 --> 00:22:24,440
+fallet har sett tack
+
+124
+00:22:25,100 --> 00:22:27,490
+och en sån tack
+
+125
+00:22:28,750 --> 00:22:30,980
+på en favoritskivor tack
+
+126
+00:22:33,350 --> 00:22:34,760
+referens från insatser
+
+127
+00:22:36,930 --> 00:22:39,280
+så det är nånting tror jag mycket bra
+
+128
+00:22:40,360 --> 00:22:43,060
+och där har ju flyttat som tar bort
+
+129
+00:22:44,180 --> 00:22:44,710
+puff
+
+130
+00:22:45,630 --> 00:22:48,310
+städat och fint skulle kunna segra
+
+131
+00:22:50,890 --> 00:22:51,450
+bild
+
+132
+00:22:55,750 --> 00:23:03,490
+känner du dig lite sköna känslan att saker börjar separeras och bli hmm clean bildsidor
+
+133
+00:23:04,280 --> 00:23:22,500
+mycket bra när hon ska vi ner till saker som de inte har redan varit inne på den går vidare med sen infrastruktur är mycket bra att ha ett eget projekt för en enda stackars liten *** jag säger att det är det
+
+134
+00:23:35,210 --> 00:23:52,620
+säger gymet hmm jag är till och med lite sågström att jag kan skapa ett helt projekt om den är en väldigt väldigt specifik sak som jag inte vill ska bli vald bland 2:a till exempel skulle jag kunna lägga ett eget projekt bara för att
+
+135
+00:24:06,250 --> 00:24:07,190
+för att hmm
+
+136
+00:24:08,100 --> 00:24:27,370
+om man uppdaterar inte till fredag så ska jag inte vid datorn objektiv models på på sidan påverkas över huvud taget det är starkt kopplade och det vill vi inte dessutom är hmm kan man få lite problem om hmm jag vet inte
+
+137
+00:24:38,150 --> 00:24:40,450
+säkert ni som har som har åkt på det
+
+138
+00:24:42,690 --> 00:24:59,040
+samla tillbaka är så därför har vi en infrastruktur som som petar på saker det är den som kommer ha alla det enda sis på massa saker frimärks och nu detta och grejer nu är det ju bara en filsystemet så har vi inget men om vi har en databas och om den är etcetera
+
+139
+00:25:00,130 --> 00:25:03,920
+så har vi de inline insatser smutsig det är som det ska vara
+
+140
+00:25:05,230 --> 00:25:11,400
+testen lär ju bara tråkar det därför så trött ut överallt integration tests
+
+141
+00:25:12,150 --> 00:25:28,070
+hmm väntar mig vi går på djupet testerna det bara testbericht kanske är det pennor ses på den den ska inte testa själv den här grejen är den att det
+
+142
+00:25:30,040 --> 00:25:32,250
+och i stället så får jag den här
+
+143
+00:25:33,020 --> 00:25:37,710
+referera till det inte där men jag sa det är här med på den vägen
+
+144
+00:25:39,060 --> 00:25:52,480
+judith testerna ska vi testa projekt inga kärlek det är dom är innan den testar och den bygger dom är helt separata så har vi tester på enbart de in som är helt separerade från allting
+
+145
+00:25:54,110 --> 00:26:00,500
+det är väl själva definitionen av tina eller hmm tror det här bygger du det är frågan och är i bilderna
+
+146
+00:26:01,490 --> 00:26:02,260
+se vad hon säger
+
+147
+00:26:04,560 --> 00:26:06,160
+fel säger han det var tråkigt
+
+148
+00:26:07,030 --> 00:26:08,740
+den då får vi se vad han vill
+
+149
+00:26:12,490 --> 00:26:15,280
+vad hände nere hmm lite här händer
+
+150
+00:26:17,810 --> 00:26:26,580
+när väl fönstren ligger på plats kommer aldrig petar på det är några är först när man skulle lära sig ut i ett nytt kurs eller så hmm
+
+151
+00:26:28,050 --> 00:26:55,620
+tror jag tänker du inte var det just det den här lilla hjälp metoden den kommer inte med i säsong åtta och så vidare utan den har jag lagt in den nu ligger under tennis in på konsoll konsolen här bubblar upp ett problem vi hade innan testprojektet använde hmm hmm efter hennes det är lite så vi får flytta den
+
+152
+00:26:57,640 --> 00:26:59,870
+den logiken ligger i testet och ingen annanstans
+
+153
+00:27:00,790 --> 00:27:06,320
+ens told den stora cykeln och bollen exempel naturen ligger i syster med linka sink
+
+154
+00:27:07,230 --> 00:27:08,080
+det kan vara bra att veta
+
+155
+00:27:09,080 --> 00:27:27,470
+den har mycket bra godis i sig och den ska in i där i testerna installerar 2:a tester har ju mycket smutsigare precis som helst vann men om man behöver det så har hon skrivit texten och det var då ska vi se om den blev det
+
+156
+00:27:29,990 --> 00:27:32,380
+och där hamnade nere ändå inte närvara på det här
+
+157
+00:27:33,720 --> 00:27:41,080
+å vad jag saknar är finna det ju inte vara i figur det är därför vi dig
+
+158
+00:27:42,660 --> 00:27:56,270
+den ligger i domen och den ligger de och det är då men vi ska testa så det verkar väl rimligt och är nånting med den där vet vi inte vad det så den hmm har vi bort svit bygger och nu då det tror jag inte
+
+159
+00:27:58,860 --> 00:28:06,490
+förresten säger att de inte bygger mindre öppenhet när han ska bo så när snart vi sorterat runt alla fönster
+
+160
+00:28:08,720 --> 00:28:09,450
+hmm
+
+161
+00:28:10,330 --> 00:28:14,720
+den här vet jag inte heller vad det är en fundering domaine jag mera
+
+162
+00:28:16,610 --> 00:28:36,420
+ja jag ser det där så ligger och skräpar har vart härligt då kanske den funkar om den vet ju inte heller någonting det är lite stökigt när man fakturerar hmm projekt
+
+163
+00:28:46,180 --> 00:29:12,690
+men vad gör du här en gång när vi har gjort det här så av liksom strukturen färdig bygga vidare på och det kommer aldrig vara lättare i det här projektet än nu du kommer alltid blir svårare ju längre man väntar med dem och jag tycker ändå att det är ganska bra vänta tills man gör det också för det
+
+164
+00:29:16,310 --> 00:29:19,180
+dela upp dig fina projekt och grejer så är det visst
+
+165
+00:29:19,960 --> 00:29:33,450
+så är vi plockade fram snabbast möjliga svar på den fråga vår största risk att det inte skulle fungera det funkar så var vi på såg till att ställa upp testbilen egentligen skulle hmm
+
+166
+00:29:42,430 --> 00:29:44,180
+jess så tycker jag
+
+167
+00:29:45,860 --> 00:30:03,800
+det kan tyckas ta lång tid men tiden räcker inte för att vi vet att det är faktiskt kommer användas och sen skulle jag inte bygga allt för mycket hmm blir runt där utan man bygger ju på lite allt eftersom man märker att man inte rotar i form av grundnivå
+
+168
+00:30:15,760 --> 00:30:22,010
+roa sig med alla möjliga patrull som praktiskt så grejer men eller inte det får liksom
+
+169
+00:30:23,050 --> 00:30:24,800
+ges efterhand om det behövs eller inte
+
+170
+00:30:25,570 --> 00:30:40,300
+man kan koppla så är det från början så kan inte bli så illa är därför tester det bra nu kollar inte ens när jag står och svamlar sent än så gör det
+
+171
+00:30:43,730 --> 00:30:57,040
+vad är ann svensson penser skulle man kunna argumentera för att den ska testa hmm eftersom det är glest men vi har inte riktigt gjort det så utan det är den här testar eu lite
+
+172
+00:30:58,180 --> 00:31:05,650
+att sätta ihop både domaren och infrastrukturer så att den går ut och faktiskt använder saker den riktiga filer på hårddisken är
+
+173
+00:31:06,510 --> 00:31:11,070
+så den här behöver ju referera in domain och infrastruktur tänker jag
+
+174
+00:31:12,530 --> 00:31:28,800
+sedan kanske var vettigt att om denna konsol grejen var ett riktigt projekt är riktigt lätt har det varit att bygga en point i det här paketet och sen testa genom den men har inte gjort det så är det någonting om det här
+
+175
+00:31:34,150 --> 00:31:43,680
+Konstruktör vill vi också just det så man som ligger väl där uppe som inte längre stämmer precis vad jag något mönster
+
+176
+00:31:44,950 --> 00:32:04,810
+så häng med på vad vi gjort vi har städat ska vinna bygger en krans tycker inte att det är fine men får väl se vad som händer vad den tycker jag framförallt kan få lite problem när man
+
+177
+00:32:21,240 --> 00:32:25,150
+undrar bara varför han gör så nu är det någonting som inte är bra
+
+178
+00:32:26,740 --> 00:32:27,370
+hmm
+
+179
+00:32:29,050 --> 00:32:36,820
+special defects som sagt vi kan testa och gå in i jag vet inte om det är enklare som gör det där eller vad det är som gör det
+
+180
+00:32:37,560 --> 00:32:52,670
+men jorden här är ju en fantastisk bugg när den är faktiskt men det är långt bara ett kr hos med pidd 19 208 och man löser det problemet genom att slå ihjäl den processen för den har nog hängt sig vi får äta upp den
+
+181
+00:32:55,520 --> 00:33:04,850
+svårare hmm vad har vi denna sidans information skydd sortera på bild 19 208
+
+182
+00:33:07,180 --> 00:33:08,890
+varför har de aldrig med det här i böckerna
+
+183
+00:33:10,920 --> 00:33:20,950
+där kan man ägna dagar åt hmm vilket jag gjort innan da mitt dagen för sig alla härliga saker jag kört min dator spännande
+
+184
+00:33:22,420 --> 00:33:28,870
+jag är hemma hos reportage tack avsluta den
+
+185
+00:33:30,680 --> 00:34:00,480
+mycket bra vi försöker cleana och vi tar och vi går in vi gå rakt på en krasch var säkert den ssab allting var ju typiskt och så tar vi den här fina hmm allt glöm allt du kan knappen skitbra det för vanliga vardag
+
+186
+00:34:00,590 --> 00:34:07,560
+arbetet så men i just det här stiftet när man börjar riva runt och ställer upp och **** för då kan det hända
+
+187
+00:34:09,680 --> 00:34:12,710
+så nu är det kaffepaus hmm den igen
+
+188
+00:34:14,160 --> 00:34:23,810
+perfekt ska vi se om den bygger bättre nura nu vill jag gärna se att det funkar det så att allting blir grönt vi får se vi får se spännande spännande
+
+189
+00:34:24,600 --> 00:34:35,950
+och de hade inget att gnälla på nu ser här nere i hörnet den i grön allting grönt och forfarande proffsigt vågar vi köra den dot kabel grejerna där
+
+190
+00:34:38,050 --> 00:34:47,300
+vi prövar det slöseri på tid sedan hittade till allting nu då
+
+191
+00:34:48,940 --> 00:34:58,690
+kanske inte helt dumt och testköra den smaken också nu när vi gjort om saken men det var inte som du gjorde hmm man kan ju tro att det var så sent chans
+
+192
+00:35:01,240 --> 00:35:06,950
+kabel karen session nu snurrar det kanske det är också här vi skulle göra så
+
+193
+00:35:09,010 --> 00:35:11,880
+den kanske inte är helt med i matchen är det så
+
+194
+00:35:15,610 --> 00:35:15,980
+rån
+
+195
+00:35:17,020 --> 00:35:17,440
+sa
+
+196
+00:35:18,810 --> 00:35:21,320
+nej det är nånting man inte gillar
+
+197
+00:35:24,460 --> 00:35:27,600
+det nu blir så verkligt som bara händer
+
+198
+00:35:31,730 --> 00:35:33,260
+jag vill att vi måste kolla på att byta
+
+199
+00:35:38,930 --> 00:35:40,040
+jag är alltid signaler
+
+200
+00:35:43,920 --> 00:35:51,750
+men det är bara bild bild grenar kan inte få den fina kabel det kan vara synlig starta den och sådär
+
+201
+00:35:55,250 --> 00:35:58,240
+vi har så här vi tar och kör dem härifrån i stället
+
+202
+00:36:00,350 --> 00:36:01,340
+där kan man också göra
+
+203
+00:36:02,990 --> 00:36:05,720
+där har han ju nytt test slicks
+
+204
+00:36:08,040 --> 00:36:16,510
+senare i test här och där rann test har helt plötsligt inne i vissa studies från jag om den behagar var med i matchen
+
+205
+00:36:17,760 --> 00:36:23,150
+ja vi måste bygga tycker det här men nu kollar jag plötsligt så vaknar du till
+
+206
+00:36:24,580 --> 00:36:27,250
+de hade ju fantastiskt med bygger
+
+207
+00:36:28,150 --> 00:36:28,910
+sedan är
+
+208
+00:36:29,980 --> 00:36:34,030
+vi får bygga den här gången nu vaknar de till det vaknar den till
+
+209
+00:36:35,890 --> 00:36:46,920
+det gäller om minst tre test från är igång det var ju mer testa det desto bättre går du vill studera de gamla grekerna du kanske är det okej om det går med på det
+
+210
+00:36:49,910 --> 00:37:02,920
+sedan det här integriteten som denna ruta på fil på hårddisken tog nästan lika lång tid för ett 2:a testen åtta körde det är därför de inte ska vara med i test från kontinenten och grejer
+
+211
+00:37:07,710 --> 00:37:10,580
+jag är fortfarande ledsen över persson
+
+212
+00:37:12,120 --> 00:37:13,430
+snurra snurra snurrar
+
+213
+00:37:16,770 --> 00:37:19,740
+gäller tämja sina verktyg
+
+214
+00:37:20,940 --> 00:37:21,570
+hmm
+
+215
+00:37:23,950 --> 00:37:37,280
+svar nu är det med dig en perfekt känner du värdet i tiden vid datorn här så om du ska också bo där nere tack också gärna
+
+216
+00:37:39,720 --> 00:37:42,140
+ännu ej varvid då
+
+217
+00:37:43,730 --> 00:37:51,910
+vi har nu slutit senare sprang sponsring pauser tycker du om för det här i en hmm console
+
+218
+00:37:53,900 --> 00:37:55,950
+så vill jag att vi ställer upp här också
+
+219
+00:37:57,860 --> 00:38:07,050
+så att vi får snabbt och lätt att få överblick och då har vi ju tests kanske kan vi plocka in där den och den
+
+220
+00:38:09,280 --> 00:38:09,460
+hmm
+
+221
+00:38:11,800 --> 00:38:18,210
+svar perfekt slipper vi se dem och så vill jag även gömma undan klienterna
+
+222
+00:38:21,210 --> 00:38:29,790
+vad är ens så och det är konsollen och det är den smaken de är klienter det var ju ingenting med själva hmm
+
+223
+00:38:31,630 --> 00:38:33,490
+koden är att tänkte säga men
+
+224
+00:38:35,060 --> 00:38:39,390
+affärslogiken i våran fina ses vid pauser det är bara klienter som använder den
+
+225
+00:38:40,760 --> 00:38:43,570
+och nu tycker jag min dator att det är tråkigt
+
+226
+00:38:46,820 --> 00:38:47,430
+cult
+
+227
+00:38:48,300 --> 00:39:04,510
+poff så har dom kvar och då ser vi här genast direkt vad som är själva applikationen vad är det som är poängen med den här hmm grejen renskrivning arkitekter vi har vi behöver
+
+228
+00:39:06,580 --> 00:39:07,010
+ad
+
+229
+00:39:08,240 --> 00:39:12,770
+fonder hmm har vi också
+
+230
+00:39:14,200 --> 00:39:17,440
+de två har ju så här bara för oss
+
+231
+00:39:18,890 --> 00:39:22,580
+om de får vi komma och ändra något slags pooler
+
+232
+00:39:24,260 --> 00:39:26,180
+just nu sprids mycket bra
+
+233
+00:39:28,690 --> 00:39:36,980
+å det gick ibland hänger det ska vi klara en hel stream utan att vi kör studio kraschar det vore ju magiskt på något sätt
+
+234
+00:39:38,460 --> 00:39:56,170
+JS och då har vi det här då menar att vi har fall par strumpor säljs och de använder nånting som är i fall vi driver om man känner till är konceptet paulsen adapters och hexagonal arkitekter man
+
+235
+00:40:02,990 --> 00:40:28,480
+om jag infrastruktur det jätte gigantiska projekt som helt enkelt har allt som rör omvärlden och det är det här fallet i filsystem som har filmen det börjar likna de va om du går vidare på client så har jag inte testat med maken fortfarande fungerar det är ju ändå ganska intressant att veta det det är det vi använder för att validera den här skit
+
+236
+00:40:33,540 --> 00:40:46,650
+export redan där fina söta diagrammen de har inte tittat på även alltid bra med grafer fina grafer i södra sverige men hmm vi vill även sortera den här tänker jag
+
+237
+00:40:48,140 --> 00:40:48,960
+på något sätt
+
+238
+00:40:52,670 --> 00:40:55,450
+hmm så att vi slipper hmm kolla
+
+239
+00:41:00,430 --> 00:41:09,250
+hur mycket hjälper dialog jag får hmm vad tror vi ska ha fest usla och väst är väl rimligt sätt att sortera resultatet bra
+
+240
+00:41:11,310 --> 00:41:12,710
+å så tar vi och testar ära
+
+241
+00:41:14,280 --> 00:41:22,970
+den här men grejen är den minst intressanta läsare skickade längst ned tror jag det var inget
+
+242
+00:41:23,950 --> 00:41:26,060
+vi är växla över på berns marken
+
+243
+00:41:26,850 --> 00:41:33,080
+så kör vi realism mod för det måste man göra för er som missade avsnittet när vi gjorde en smal tröjan
+
+244
+00:41:34,940 --> 00:41:48,710
+Tur att man måste få igång det här är tillbaka inför vi använder oss av en smartnet med ett fantastiskt litet hmm nog ett projekt som tar hand om allt som är svårt i berns marken
+
+245
+00:41:49,760 --> 00:41:50,350
+ock
+
+246
+00:41:51,300 --> 00:41:57,300
+de det vill säga att saker hmm varierar i hastighet när
+
+247
+00:41:58,800 --> 00:42:17,520
+när man körde om du har datorn i övrigt har för sig och det är ju att allting kraschade det bubblar upp hmm ett problem som jag inte alls hmm jag fakturerar utan sönder saker hmm hmm den hmm lite uppvärmning kör flera gånger den blandar ordning där många gånger
+
+248
+00:42:29,110 --> 00:42:44,920
+jo det ska gå bra för dig det är nog för att jag inte har en aning om hur man gör egentligen det borde faktiskt läsa och det finns nån sån här hmm pappa meny sådär hmm eller endast ns så det går på något sätt hmm
+
+249
+00:42:52,270 --> 00:43:05,910
+annars så vet jag inte varför inte göra det kanske har sönder saker du kanske problem jag inte känner till det kan vara att krocka med den spelare som misstag och så där ja jag vet inte men den här hmm
+
+250
+00:43:07,710 --> 00:43:10,940
+metoden är gudinna för mig för nu
+
+251
+00:43:11,860 --> 00:43:13,220
+n vacker dag skall lära mig mer
+
+252
+00:43:14,180 --> 00:43:16,110
+men men smaken havererade
+
+253
+00:43:17,180 --> 00:43:33,720
+hmm det inte för det här med det här ensam på ett tyg har vi kan inte ha massa tomma rader där det är att han inte kan hitta filerna för det vi gjorde var ju om vi kollar här i hmm våran fungerande konsol grej den kommer jag kommer vid sin dator
+
+254
+00:43:44,600 --> 00:44:07,980
+vart hör datorn hemma nånstans där är det domän logik det känns inte sova är det infrastructure kanske skulle kunna argumentera för det men jag skulle nog vilja påstå att datorn i det här fallet är hmm att klienten får med sig sin egen data för det är liksom lite den som ska bestämma vad det är
+
+255
+00:44:14,820 --> 00:44:17,140
+kör man vet spänningen är total
+
+256
+00:44:20,380 --> 00:44:22,390
+vad är svar på en viss fråga förresten
+
+257
+00:44:24,090 --> 00:44:24,850
+ändå väntar
+
+258
+00:44:29,240 --> 00:44:34,180
+hmm och då ska vi se massa data skulle bara säga att den har koppling till allt direkt
+
+259
+00:44:38,000 --> 00:44:43,100
+hmm och då ska den smaka med sig sin egen dotter ringer dig för då kan vi testa den igen
+
+260
+00:44:44,300 --> 00:44:49,410
+och då kör vi utan det vandring för att få så rättvisande mariestads som möjligt
+
+261
+00:44:53,230 --> 00:44:56,360
+nu är det ju spännande där vi maximerar den tänker jag
+
+262
+00:44:57,690 --> 00:45:11,900
+och så ser du ändå inte för att fonden är så liten men jag gör massa grejer den värmer upp saker den mäter saker där räknar ut hur många gånger ska köra saker läser mycket bra bra grejer och den kan rita söta grader i fina färger mycket viktigt
+
+263
+00:45:12,920 --> 00:45:16,650
+och då får du säga om det är fortfarande får något rättvisande resultat av det här
+
+264
+00:45:19,930 --> 00:45:26,810
+kör den allting gott man skulle kunna jobba som live kommentator till bergsmark gått snett
+
+265
+00:45:28,210 --> 00:45:31,820
+kan man göra en stream med det fantastiskt bra
+
+266
+00:45:33,610 --> 00:45:50,620
+jess oj oj oj oss nu spottar ur sig grejer nej men vi kör på det här på kontoret det ville konstatera i effekten av att använda spänn av 10 som är direkt accessen in i minnet och hmm
+
+267
+00:46:03,520 --> 00:46:06,200
+organix kollektorn jobbar slet av sig
+
+268
+00:46:07,290 --> 00:46:07,740
+cult
+
+269
+00:46:08,590 --> 00:46:27,310
+resultatet för er som missade det avsnittet nu har vi den mäter inte absoluta utan den relativa saker så klart det beror på min dator och vad den har att göra som nu strömmar in då går ju allt annat långsammare men absolut snabbaste är att läsa upp hela min filen i minnet på en gång och sedan använda den
+
+270
+00:46:31,320 --> 00:46:43,460
+den eu dubbelt så snabb som den 1:a som inte läser upp hela tiden och det är ganska väntat det går ju mycket snabbare att läsa upp hela filen i ett svep om man nu har tillräckligt med minne för att göra det
+
+271
+00:46:45,120 --> 00:46:53,870
+än att ta rad för rad för hårddisk access är ändå kostsamt måste ju krocka på bussen och lavin och hålla på sådär
+
+272
+00:46:55,970 --> 00:47:11,120
+men om vi kollar minnes användningen så använder du ohyggligt mycket mer mindre än de av zink är roll och spänner 10 grejerna ha det på 13,90 åtta kilo hmm
+
+273
+00:47:12,640 --> 00:47:25,110
+så den klassiska performence avvägningen minnesanvändning kontra processor har redan kollat på innan gå in på youtube när vi ser det avsnittet
+
+274
+00:47:43,870 --> 00:47:50,880
+projekt men vill ändå lägga upp det så att det är är busenkelt att fortsätta använda den sektion och lägga till nya saker
+
+275
+00:47:51,650 --> 00:48:10,820
+såg det här nu grejen här vill vi inte befatta oss med utan det skulle komma i förväg och jag tänker vi använder kakor ha en egen hmm vi använder det är sällan så hmm
+
+276
+00:48:22,260 --> 00:48:24,050
+jag vet inte men vi kör på den
+
+277
+00:48:26,250 --> 00:48:32,560
+service provider är lika med ljusrör vi veta den service kollektioner
+
+278
+00:48:34,480 --> 00:48:41,540
+jag är inte en kollektion nu sitter han på så där och där vet jag inte vad det är för vi behöver den här typen från jet
+
+279
+00:48:42,420 --> 00:48:43,790
+vad kommer han hittar då
+
+280
+00:48:45,220 --> 00:48:50,790
+kan missa inte ett jota det vore ju tråkigt
+
+281
+00:48:52,760 --> 00:49:00,890
+facit var tidigare somrar har jag fel service kollektion eller ska vi gå in via gud för gud är ju ofta snabbare
+
+282
+00:49:04,670 --> 00:49:22,520
+kom idag ja vi kan kolla i chatten så länge vad tycker du om att istället lägga all affärslogik i ett applications projekt och endast har domän modell i denna in på så vis separerar man implantation av logik från den faktiska domän modellen släktbandet kontext
+
+283
+00:49:24,910 --> 00:49:35,000
+jag trodde det var det jag gjorde hmm är det ska vi säga vilken del av det som hmm om den här igen
+
+284
+00:49:37,280 --> 00:49:41,960
+medans vi tänker find hmm
+
+285
+00:49:43,970 --> 00:49:58,130
+ja jag just det är helt rätt affärslogik kontra domän modell absolut absolut hmm det tycker jag absolut är en bra grej det det känns lite som nästa steg
+
+286
+00:50:10,580 --> 00:50:17,420
+processen som vi ser som är en del av domänen som arbetar på entiteter precis i den skulle egentligen bara ha domän modellen och i
+
+287
+00:50:18,460 --> 00:50:37,090
+när de har försökt växer så tänker jag att om vi kollar i filen här i mig när det växer så kommer det här börjar bli uppenbart att det här börjar blanda saker hmm affärslogik med modell och då tänker jag att nästa steg i det fallet är lite jobbigt
+
+288
+00:50:39,810 --> 00:50:56,160
+hmm så tänker jag om det men just nu så känns det här projektet för litet för att göra det redan hmm jag tänker alltid jobba lite efter att göra minsta möjliga som är nödvändigt sen är det alltid svårt att avgöra vad som är minsta möjliga det är missbrukas ju alltid
+
+289
+00:51:02,460 --> 00:51:21,930
+jag vet inte om det är vad bra svar på frågan men det var så tänker jag i alla fall det är nog inte alla som håller med det det är lite det var diskussioner där för det är ganska fånigt stort hmm brytande av mängd projekt och så vidare för det här lilla lilla projektet i framtiden
+
+290
+00:51:22,670 --> 00:51:27,800
+hmm men jag tycker att det viktigaste är att det är kopplat så att det går att bygga vidare på utan att du träffar upp sig
+
+291
+00:51:29,050 --> 00:51:34,110
+jess nu håller jag på och tycks snurra runt här och det var ju på mig vad här det penicillin
+
+292
+00:51:34,540 --> 00:51:36,670
+Nu ska det gå import
+
+293
+00:51:38,490 --> 00:51:51,520
+JS och då har vi hmm hmm nu kommer inte jag ihåg men det är såklart mer hmm punkt vi får googla lite det är lika bra
+
+294
+00:51:52,890 --> 00:52:10,340
+hmm ska vi se i rottne ett kol konsole dependence in action den listan ut kanske är det därför det var en skitbra blogg här ser man kan kan du gå in på den för att veta hur man gör den förklarar förmodligen mycket bättre om jag gör det jag är ute efter
+
+295
+00:52:11,400 --> 00:52:24,770
+den gjorde mig är singel snigel ton hmm hmm hmm
+
+296
+00:52:26,550 --> 00:52:40,360
+tror jag det är försäkrad tjoff tjoff är för mycket på en gång snygga ton av våran string
+
+297
+00:52:42,690 --> 00:52:47,800
+YCC europa som till exempel och då vill vatten här ska kopplas ihop med en hmm
+
+298
+00:52:49,050 --> 00:53:04,380
+vad är fallet strings britt nej du vill inte va vill ha en spann ropar det var ju det som var bra det var bra i alla kasinon världsmarknad dess har de sprider är snigel ton
+
+299
+00:53:06,540 --> 00:53:18,560
+den som kommer på skillnad med att göras ingenstans och lägga till sängen så här vinner en brödrost och då skulle han ha en film skivor
+
+300
+00:53:20,590 --> 00:53:21,020
+svar
+
+301
+00:53:22,310 --> 00:53:23,640
+vad det något mer man skulle göra
+
+302
+00:53:25,590 --> 00:53:39,700
+bild service sverige ska göra det är inte dumt det här byter vi ut då i en metod så klart i hmm it projekt så hamnar det i egna metoder fint från början men det gör det inte
+
+303
+00:53:55,540 --> 00:54:05,470
+s och då ska det här vara en hmm typ som jag har i huvudet så löser vi köper fantastiskt då har vi
+
+304
+00:54:10,010 --> 00:54:19,930
+vad service prova på var lite fult att den gör två saker
+
+305
+00:54:24,840 --> 00:54:34,070
+ja då kan vi tänka att vi hamnade här för att göra det här så här service provider punkt hmm
+
+306
+00:54:37,090 --> 00:54:40,200
+jag tycker att service i ett service
+
+307
+00:54:41,090 --> 00:54:42,200
+jag har glömt eller
+
+308
+00:54:43,930 --> 00:54:45,800
+bildcollage väder det är
+
+309
+00:54:50,050 --> 00:54:53,480
+det här ska nog inte vara kollektion med den service provider
+
+310
+00:54:59,550 --> 00:55:00,100
+vad
+
+311
+00:55:01,690 --> 00:55:10,360
+antiklimax ju också climax kommunen gör om jag orkar inte ta reda på typer så
+
+312
+00:55:11,800 --> 00:55:12,690
+jag vill så här
+
+313
+00:55:19,230 --> 00:55:22,400
+de som ser vad vad jag klantat mig
+
+314
+00:55:28,610 --> 00:55:30,380
+vår service provider
+
+315
+00:55:31,320 --> 00:55:38,330
+jag göra ja det gör det ju ett service det gjorde det är ditt fel typ av service
+
+316
+00:55:40,720 --> 00:55:44,900
+nej det funkar att hmm
+
+317
+00:55:58,030 --> 00:56:01,640
+resonerar inte facit som bildskapare hmm
+
+318
+00:56:03,200 --> 00:56:11,830
+ja såklart bra hmm bra där apan i baren hmm det är nog precis så det är göra det här
+
+319
+00:56:13,170 --> 00:56:22,940
+klart mer hmm precis mycket bra såklart
+
+320
+00:56:24,240 --> 00:56:29,170
+tur att jag har er hör annars så vis håller på med är evigheter nu går den bättre
+
+321
+00:56:31,870 --> 00:56:37,930
+nordström städar vi design great service och då vill vi ha en vi ses i europa surrar
+
+322
+00:56:39,240 --> 00:56:41,780
+vad här vill vi ha en affar i skivor
+
+323
+00:56:43,610 --> 00:56:49,140
+punkt ett service simmar ur bild är alltid bra
+
+324
+00:56:51,130 --> 00:56:52,140
+fallet skriver
+
+325
+00:56:53,740 --> 00:56:54,470
+om det är nånting
+
+326
+00:56:58,200 --> 00:57:03,680
+hmm varför hon var lite tur bildar en stund för att vi ska se att det här fortfarande funkar
+
+327
+00:57:04,850 --> 00:57:09,040
+så vi hoppar tillbaks till konsoll det bugg
+
+328
+00:57:10,290 --> 00:57:11,760
+visar att det fortfarande funkar
+
+329
+00:57:16,980 --> 00:57:19,960
+hmm den redan och ändå nu då
+
+330
+00:57:23,640 --> 00:57:25,330
+vill köpa som spökar med mig
+
+331
+00:57:29,800 --> 00:57:50,250
+kommer det ge nåt tar ruskigt lång tid att sy upp filer från disken och ge lite data eller men det fungerar så och då har vi det här att det är den här biten vi slippa egentligen så här tar vi bort så gör vi så här var visa allt är lika med
+
+332
+00:57:51,010 --> 00:57:56,220
+eller så här jag vet det är bra det är bra mycket bra det är den här biten
+
+333
+00:57:57,650 --> 00:57:58,740
+vi vill byta ut
+
+334
+00:58:04,010 --> 00:58:12,460
+till en fall varelser så och den här vi inte ska ta upp det här sättet det behöver inte längre hmm fina med hmm
+
+335
+00:58:15,560 --> 00:58:38,230
+med hmm känns igen från bilen jag inte behöver så vi gör såhär service på punkt service sync så behöver inte bry oss det är mycket känsla i magen
+
+336
+00:58:39,210 --> 00:58:49,740
+jag kan bara säga att den fortfarande funkar för det gör då är att den vet ju redan sidor se ifall vi är för nånting så den skickade in det behöver inte ange för att skapa upp den här
+
+337
+00:58:51,010 --> 00:58:56,410
+arna i norden så jag ju i stora ljuga för henne
+
+338
+00:58:58,380 --> 00:59:05,220
+filmporr subbas null har just det behöver som också är singel ton
+
+339
+00:59:07,220 --> 00:59:07,730
+film
+
+340
+00:59:11,080 --> 00:59:13,000
+vad är det jag inte tänka på nu
+
+341
+00:59:16,570 --> 00:59:18,770
+jag svarar heter nej nej
+
+342
+00:59:22,720 --> 00:59:24,110
+jag anser att klanta mig nära
+
+343
+00:59:26,610 --> 00:59:28,340
+den här ska ha en
+
+344
+00:59:32,740 --> 00:59:33,290
+ska ha
+
+345
+00:59:35,060 --> 00:59:40,010
+kramar ett skrov menar vi ses ju bra par sånna i fall beskriver det borde duga
+
+346
+00:59:44,020 --> 00:59:46,600
+å grät service zone
+
+347
+00:59:47,550 --> 00:59:49,000
+såg vi den var det där
+
+348
+00:59:51,190 --> 00:59:52,240
+har jag klantat mig
+
+349
+00:59:55,250 --> 00:59:55,960
+se vad som händer
+
+350
+00:59:58,290 --> 01:00:00,020
+det här blir det sista vi gör det här
+
+351
+01:00:01,810 --> 01:00:09,310
+jag är null varför är den ull service förmiddagen get service bör man lägga till att man är säker lägga till den som en snigel som också är
+
+352
+01:00:10,360 --> 01:00:10,920
+mer än så
+
+353
+01:00:12,470 --> 01:00:17,360
+den borde inte behöva lägga sig tycker jag är konkret men hmm
+
+354
+01:00:18,780 --> 01:00:19,630
+add the
+
+355
+01:00:22,430 --> 01:00:25,780
+snygg elton async hmm
+
+356
+01:00:31,380 --> 01:00:39,350
+jag har tänkt att det vore ju själva hmm behövs annars så finns den inte kollektionerna är det kan vara så det är helt sant
+
+357
+01:00:40,380 --> 01:00:57,410
+det är jag som missuppfattat hur hur den funkar bra du har helt rätt att det är bara räddar dagen igen ges och då vill jag bara byta ut den här till exempel till hmm pendeln size
+
+358
+01:00:59,600 --> 01:01:04,220
+och då har vi så och så dem hör ihop där semestern som är tess var det mycket snyggare
+
+359
+01:01:05,110 --> 01:01:13,060
+tycker jag i alla fall var det värt besväret när man vet om vi fortsätter jobba på det här och mitt team som jag var på det under all evighet så kommer det lovar
+
+360
+01:01:14,660 --> 01:01:31,380
+hmm om det här projektet nu aldrig mer kommer petas på inte värt det men min erfarenhet är jobbat med 15 år nu men så är det är att vi oftast i oss för att vi gör för lite
+
+361
+01:01:34,320 --> 01:01:41,320
+Nånstans va är det någon som känner att ni har det problemet hmm får du gärna berätta om det jag ville höra om det
+
+362
+01:01:42,220 --> 01:02:04,710
+jess så det var gjort är att visa att clients hmm då det pendlar på vann då mig min frustration jag ser ut testen och dom är är framförallt helt clean tåg det enda system är helt frikopplad vilket är fantastiskt och våra tester tester refererar bara koppla av
+
+363
+01:02:09,130 --> 01:02:18,030
+gäst det var jag tänkte vi skulle göra idag den här koden den finns på github som vi såg i början där om du ville gå in och snoka på den det är
+
+364
+01:02:19,490 --> 01:02:32,730
+det här avsnittet är det kommer ligga i arkivet mig ut rum du hittar trevliga hemsidan där det blev inget bra länk till youtube så jag tror det finns lite länkar där nere och på hemsidan hittar du på den jag har
+
+365
+01:02:43,840 --> 01:03:07,830
+annars så tänkte väl bara tacka för att kolla idag det här det här var kul och nu känns det som att det här projektet är hmm har nått i mål så hmm får fundera ut roliga nya projektet bygger på från och med nästa tisdag vi se vad det blir på deras sociala medier kanaler ska försöka hmm
+
+366
+01:03:14,230 --> 01:03:15,020
+12:05
+
+367
+01:03:43,720 --> 01:03:43,740
+Hmm
+
+368
+01:03:51,030 --> 01:04:06,030
+
+
+369
+01:04:19,070 --> 01:04:19,090
+Hmm
+
+370
+01:04:22,230 --> 01:04:37,230
+
+
+371
+01:04:42,770 --> 01:04:42,790
+Hmm
+
+372
+01:04:53,430 --> 01:05:08,430
+
+
+373
+01:05:11,510 --> 01:05:11,530
+Hmm
+
+374
+01:05:24,770 --> 01:05:39,490
+
+
+375
+01:05:47,100 --> 01:05:47,120
+Hmm
+

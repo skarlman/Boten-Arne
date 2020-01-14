@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Threading.Channels;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 
@@ -56,8 +59,27 @@ namespace GemGymmet
 
             Console.WriteLine($"=============== Single Prediction just-trained-model - Result: {prediction.Action} ===============");
 
+            TestOnOtherSRT(_predEngine);
+
             return trainingPipeline;
         }
+
+        public static void TestOnOtherSRT(PredictionEngine<SubtitleEntity, ArneActionPrediction> predictionEngine)
+        {
+            var allLines = File.ReadAllLines("Data\\zQmDgww8-XY.srt");
+            
+            var subtitles = allLines.Where((l, i) => (i+2) % 4 == 0).Distinct().ToArray();
+
+            foreach (var s in subtitles)
+            {
+                var prediction = predictionEngine.Predict(new SubtitleEntity() {Subtitle = s});
+                if (prediction.Action != "CheckingSomething" || prediction.Score.Max() > 0.97f)
+                {
+                    Console.WriteLine($"({prediction.Score.Max():P}) {prediction.Action} <== {s}");
+                }
+            }
+        }
+
 
         public static void Evaluate(DataViewSchema trainingDataViewSchema)
         {
@@ -102,6 +124,9 @@ namespace GemGymmet
     {
         [ColumnName("PredictedLabel")]
         public string Action;
+
+        public float[] Score { get; set; }
+        public float Probability => Score.Max();
     }
 
     internal class SubtitleEntity

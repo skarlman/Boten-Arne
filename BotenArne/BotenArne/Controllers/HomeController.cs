@@ -68,8 +68,10 @@ namespace BotenArne.Controllers
             }
 
             var prediction = _predictionService.PredictAction(speech);
-            _arneHub.Clients.All.SendAsync("ReceiveCommand", prediction);
-
+            if (prediction != "NoAction")
+            {
+                _arneHub.Clients.All.SendAsync("ReceiveCommand", prediction);
+            }
 
             //CheckingSomething - "läsa på"
 

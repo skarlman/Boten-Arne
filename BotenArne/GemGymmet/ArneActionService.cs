@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text;
 using Microsoft.ML;
 
@@ -27,7 +28,13 @@ namespace GemGymmet
             var subtitleEntity = new SubtitleEntity(){Subtitle = text};
 
             var prediction = _predEngine.Predict(subtitleEntity);
-            return prediction.Action;
+            if (prediction.Action != "CheckingSomething" || prediction.Probability > 0.97f)
+            {
+                return prediction.Action;
+            }else
+            {
+                return "NoAction";
+            }
         }
     }
 }
